@@ -3,8 +3,8 @@
          style="width: 100%; display: block;">
     
     
-  <a href="https://x.com/_Morick">
-        <img src="https://64.media.tumblr.com/a770f2bf8f8b232425d77b322e31a9ab/a6fc22df2d265e12-dc/s2048x3072/49a001c6538ead8408165146da293c6929807c92.pnj"
+  <a href="https://www.youtube.com/watch?v=8QF9hM1MQwc&list=RD8QF9hM1MQwc&start_radio=1">
+        <img src="https://pbs.twimg.com/media/GUorB8PWcAAMFFq?format=jpg&name=900x900"
              style="width: 100%; height: 100%; position: absolute; top: 0; left: 0; object-fit: contain;">
 
 <div style="width: 350px; position: relative;">
@@ -13,5 +13,3 @@
   
   </a>
 </div>
-
-ART CRED: @berixblitz
